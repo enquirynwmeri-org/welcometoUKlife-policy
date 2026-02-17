@@ -1,4 +1,6 @@
-Data Deletion Instruction : Welcome to UK life  is designed with privacy in mind. We do not use cloud accounts or remote servers to store your personal data (checklists, documents, or reminders).
+Data Deletion Instruction :
+Developer: Cloud n Ground Soft Tech ( legal entity: Mediheal Ltd)
+Welcome to UK life  is designed with privacy in mind. We do not use cloud accounts or remote servers to store your personal data (checklists, documents, or reminders).
 
 To delete all of your personal information from the app:
 
@@ -6,3 +8,4 @@ Delete from App: Manually delete individual items (documents or checklist tasks)
 Complete Wipe: To remove all data at once, go to your phone's Settings > Apps > welcome to uk life  > Storage and select "Clear Data".
 Uninstall: Uninstalling the app from your device will automatically and permanently delete all local data stored by the app.
 Note: For data handled by our advertising partner (AdMob), you can reset your Advertising ID in your Android Device Settings.
+For further informaion email : contact@cloudnground.com

@@ -74,4 +74,4 @@ We rely on your device's native security features (Passcode, FaceID, Fingerprint
 8. CONTACT US
 If you have questions about this Privacy Policy, please contact the developer at:
 Email: contact@cloudnground.com
-Cloud n Ground Soft tech
+Cloud n Ground Soft tech ( Legal entity- Mediheal Ltd)
